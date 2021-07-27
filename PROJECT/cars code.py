@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jul 24 18:15:24 2021
-@author: vighn
+@author: yashwanth
 """
 
 import random
